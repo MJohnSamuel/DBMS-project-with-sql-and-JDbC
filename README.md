@@ -1,5 +1,9 @@
 # DBMS-project-with-sql-and-JDbC
-Language Used -  Java Core  Concept Used - Swing Database Used - MySQL IDE Used - Netbeans
+Language Used -  Java Core 
+Concept Used - Swing 
+Database Used - MySQL 
+IDE Used - Netbeans
+Software needed to be Installed - Netbeans 8.2, Jdk version 8 (higher versions not recommended), mysql, Jdbc Driver, Jar files).
 
 Don't know how to clone a Github Repository, watch this video
 https://www.youtube.com/watch?v=w69ci...
